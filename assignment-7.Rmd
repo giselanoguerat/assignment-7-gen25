@@ -1,6 +1,6 @@
 ---
 title: "assignment-7"
-author: "Gisela Noguera Toffoletti"
+author: "Gisela E. Noguera Toffoletti"
 output: github_document
 ---
 

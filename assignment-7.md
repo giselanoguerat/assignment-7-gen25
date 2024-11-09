@@ -1,6 +1,6 @@
 assignment-7
 ================
-Gisela Noguera Toffoletti
+Gisela E. Noguera Toffoletti
 
 Assignment 7: Relational data plus revisiting data wrangling and
 visualization ================
